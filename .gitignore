@@ -1,0 +1,5 @@
+vendor/etc/dts/dts-eagle.lic
+system/system/etc/faceclassifier/faceclassifier.dlc
+system/system/ultrasonic/play.wav
+system/system/priv-app/Camera/Camera.apk
+system/system/app/webview/webview.apk
